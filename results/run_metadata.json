@@ -1,0 +1,15 @@
+{
+  "module": "utils.js",
+  "source": "Source field of ESLint report from practical #1, Express.js MIT-licensed",
+  "source_sha256": "7f76954b84a7197295b3511c0b755db851428934e454383cc854342de2e8615e",
+  "tested_snapshot": true,
+  "git_commit_current": "43fca52d28a422c8be48fd489cbd4f2d6152bab6",
+  "commit_match_confirmed": false,
+  "test_framework": "node:test",
+  "coverage": "Node.js built-in V8 coverage",
+  "third_party_dependencies": "controlled doubles for isolated module characterization",
+  "tests_passed": 34,
+  "coverage_baseline_lines": 54.61,
+  "coverage_after_lines": 100.0,
+  "caution": "Not a proof of coverage on current GitHub checkout; run EXPRESS_UTILS_PATH against local clone and compare SHA256."
+}

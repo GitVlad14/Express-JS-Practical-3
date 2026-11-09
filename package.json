@@ -1,0 +1,11 @@
+{
+  "name": "express-practical-03-characterization",
+  "version": "1.0.0",
+  "private": true,
+  "description": "Characterization tests for Express.js utils.js",
+  "scripts": {
+    "test": "node --test tests/characterization.test.cjs",
+    "coverage": "node --test --experimental-test-coverage tests/characterization.test.cjs",
+    "baseline": "node --test --experimental-test-coverage tests/baseline.test.cjs"
+  }
+}
